@@ -1,45 +1,44 @@
-# Hi 👋, I'm Elmehdi Elmouate
-### 🎓 Software Engineering Student | Backend Enthusiast | Networking Geek
+# <p align="center">Hi 👋, I'm Elmehdi Elmouate</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=for-the-badge&logo=spring" />
-  <img src="https://img.shields.io/badge/Learning-Spring%20Boot%20%26%20React-orange?style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Systems+Enthusiast;Computer+Networking+Geek;Continuous+Learner+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-> I’m a passionate Software Engineering student dedicated to building clean, scalable, and practical modern web applications. I thrive on solving backend logic puzzles and exploring how systems talk to each other across networks.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZ4eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
-* 🔭 **Currently working on:** Advanced Spring Boot & Full-stack integration.
-* 🌱 **Learning:** Software Design patterns and deepening my TCP/IP knowledge.
-* ⚡ **Goal:** Building applications that actually solve real-world problems.
+- 🎓 **Student:** Conception et Développement des Logiciels.
+- 💻 **Focus:** Web Development & Backend Systems.
+- 🚀 **Philosophy:** Building real-world projects is the best way to learn.
+- 🔍 **Current Interest:** Deep diving into Spring Boot and Networking.
 
 ---
 
 ### 🛠️ Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Frameworks** | ![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| **Specialties** | REST APIs, TCP/IP, Client-Server Architecture, Blockchain (Solidity) |
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 🐍 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="Elmehdi's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=tokyonight" alt="Stats" width="400" />
+  <br>
+  <img src="https://github-user-contribution-snake.vercel.app/api/snake?github_user=GitMehdi-sys&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1ff,#4b91ff,#217aff" alt="Snake Animation" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
-I'm always open to interesting projects and collaboration!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mehdielmo2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
