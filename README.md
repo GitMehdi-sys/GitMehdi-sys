@@ -10,12 +10,15 @@
 ---
 
 ### 👨‍💻 About Me
-
 elmehdi = {
-    role: "Software design & development Student",
-    focus: "Backend Development & Networking",
-    learning: ["Spring Boot", "Design Patterns", "TCP/IP"],
-    goal: "Building applications that solve real problems "
+
+role: "Software design & development Student",
+    
+focus: "Backend Development & Networking",
+    
+learning: ["Spring Boot", "Design Patterns", "TCP/IP"],
+    
+goal: "Building applications that solve real problems "
 };
 
 
