@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=Elmehdi%20Elmouate&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20Engineer%20|%20Backend%20Enthusiast&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=Elmehdi%20Elmouate&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20development%20|%20Backend%20Enthusiast&descAlignY=55&descSize=20"/>
 
 <div align="center">
 
@@ -60,15 +60,6 @@ const elmehdi = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=GitMehdi-sys&theme=matrix&no-frame=true&row=1&column=6)
-
-</div>
-
----
 
 ### 📈 Contribution Graph
 
