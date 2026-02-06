@@ -1,8 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elmehdi%20Elmouate&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Backend%20Enthusiast&descAlignY=55&descSize=20"/>
+
 <div align="center">
 
-# Hi 👋, I'm Elmehdi Elmouate
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Backend+Development+Enthusiast;Network+%26+TCP%2FIP+Explorer;Building+Real+Solutions+🚀" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Backend+Development+Enthusiast;Network+%26+TCP%2FIP+Explorer;Building+Real+Solutions" alt="Typing SVG" />
+[![Profile Views](https://komarev.com/ghpvc/?username=GitMehdi-sys&color=blueviolet&style=for-the-badge)](https://github.com/GitMehdi-sys)
 
 </div>
 
@@ -22,6 +24,7 @@ const elmehdi = {
 - 🔭 Currently working on **Spring Boot & Full-stack projects**
 - 🌱 Learning **Software Design Patterns & TCP/IP**
 - ⚡ Passionate about **clean, scalable backend systems**
+- 💡 Interested in **REST APIs, Client-Server Architecture & Blockchain**
 
 ---
 
@@ -38,6 +41,7 @@ const elmehdi = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -49,12 +53,12 @@ const elmehdi = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMehdi-sysE&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMehdi-sys&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMehdi-sys&layout=compact&langs_count=6&theme=radical&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitMehdi-sys&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitMehdi-sys&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -62,7 +66,15 @@ const elmehdi = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GitMehdi-sys&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GitMehdi-sys&theme=radical&no-frame=true&row=1&column=7" />
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitMehdi-sys&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -72,8 +84,9 @@ const elmehdi = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdielmo2020@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitMehdi-sys)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
@@ -83,6 +96,8 @@ const elmehdi = {
   
 ### 💡 *"Clean code always looks like it was written by someone who cares."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+**Happy Coding!** 👨‍💻
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
