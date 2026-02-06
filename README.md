@@ -1,44 +1,83 @@
-# <p align="center">Hi 👋, I'm Elmehdi Elmouate</p>
+<div align="center">
+
+# ⚡ Elmehdi Elmouate
+### Software Engineering Student • Backend Architect • Networking Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Modern+Web+Development+Specialist;Computer+Networking+Expert;Turning+Complexity+into+Simplicity)](https://git.io/typing-svg)
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+Systems+Enthusiast;Computer+Networking+Geek;Continuous+Learner+🚀" alt="Typing SVG" />
+  <a href="#about-me">About Me</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#stats">Performance</a> •
+  <a href="#contact">Connect</a>
 </p>
 
----
-
-### 👨‍💻 About Me
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndzZ4eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eXJ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-
-- 🎓 **Student:** Conception et Développement des Logiciels.
-- 💻 **Focus:** Web Development & Backend Systems.
-- 🚀 **Philosophy:** Building real-world projects is the best way to learn.
-- 🔍 **Current Interest:** Deep diving into Spring Boot and Networking.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
+### 📖 Discovering My World
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      I am a Software Engineering student focused on <b>Conception et Développement des Logiciels</b>. I don't just write code; I design systems. My passion lies at the intersection of robust backend logic and the intricate protocols that keep the internet moving.
+      <br><br>
+      🚀 <b>Current Mission:</b> Mastering Spring Boot ecosystems and high-performance React frontends.<br>
+      🧠 <b>Philosophy:</b> Scalability is not an afterthought; it's a requirement.<br>
+      🛠 <b>Strengths:</b> API Design, Client-Server Architecture, and Problem Solving.
+    </td>
+    <td width="40%" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true&card_width=300" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🐍 Contribution Activity
+### 🛠️ The Master Stack
+
+| **Architecture** | **Technologies** |
+| :--- | :--- |
+| **Backend & Core** | `Java` `Spring Boot` `Spring AI` `Python` `Flask` `Node.js` |
+| **Frontend & UI** | `React.js` `JavaScript` `HTML5` `CSS3` `Tailwind` |
+| **Systems & Data** | `C` `SQL` `REST APIs` `Postman` `Maven` |
+| **Networking** | `TCP/IP` `HTTP/S` `Blockchain` `Solidity` |
+
+---
+
+### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=tokyonight" alt="Stats" width="400" />
-  <br>
-  <img src="https://github-user-contribution-snake.vercel.app/api/snake?github_user=GitMehdi-sys&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1ff,#4b91ff,#217aff" alt="Snake Animation" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Main Stats" width="45%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" alt="Profile Details" width="45%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
-<p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mehdielmo2020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🤝 Strategic Connections
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL@DOMAIN.COM">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br>
+<sub>*Always open to collaboration on Backend, Networking, or Blockchain projects.*</sub>
+
+</div>
+
+<p align="right">(<a href="#top">Back to top</a>)</p>
