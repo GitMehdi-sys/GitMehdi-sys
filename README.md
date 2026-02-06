@@ -11,14 +11,13 @@
 
 ### 👨‍💻 About Me
 
-```javascript
-const elmehdi = {
+elmehdi = {
     role: "Software design & development Student",
     focus: "Backend Development & Networking",
     learning: ["Spring Boot", "Design Patterns", "TCP/IP"],
     goal: "Building applications that solve real problems "
 };
-```
+
 
 - 🔭 Currently working on **Spring Boot & Full-stack projects**
 - 🌱 Learning **Software Design Patterns & TCP/IP**
