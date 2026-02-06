@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Backend+Development+Enthusiast;Network+%26+TCP%2FIP+Explorer;Building+Real+Solutions+🚀" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=GitMehdi-sys&color=green&style=for-the-badge)](https://github.com/GitMehdi-sys)
 
@@ -53,10 +52,7 @@ const elmehdi = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitMehdi-sys&layout=compact&langs_count=6&theme=chartreuse-dark&border_radius=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GitMehdi-sys&theme=chartreuse-dark&border_radius=10)
 
