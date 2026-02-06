@@ -14,10 +14,10 @@
 
 ```javascript
 const elmehdi = {
-    role: "Software Engineering Student",
+    role: "Software design & development Student",
     focus: "Backend Development & Networking",
     learning: ["Spring Boot", "Design Patterns", "TCP/IP"],
-    goal: "Building applications that solve real problems 🎯"
+    goal: "Building applications that solve real problems "
 };
 ```
 
@@ -53,12 +53,13 @@ const elmehdi = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMehdi-sys&layout=compact&langs_count=6&theme=chartreuse-dark&border_radius=10"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitMehdi-sys&theme=chartreuse-dark&border_radius=10" alt="GitHub Streak"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitMehdi-sys&layout=compact&langs_count=6&theme=chartreuse-dark&border_radius=10)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GitMehdi-sys&theme=chartreuse-dark&border_radius=10)
+
 </div>
 
 ---
@@ -66,7 +67,9 @@ const elmehdi = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GitMehdi-sys&theme=matrix&no-frame=true&row=1&column=7" />
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=GitMehdi-sys&theme=matrix&no-frame=true&row=1&column=6)
+
 </div>
 
 ---
@@ -74,7 +77,9 @@ const elmehdi = {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitMehdi-sys&theme=github-compact&hide_border=true&area=true&color=00FF00&point=00AA00&line=00FF00" alt="Contribution Graph" />
+
+[![Elmehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GitMehdi-sys&bg_color=0d1117&color=00ff00&line=00ff00&point=00aa00&area=true&hide_border=true)](https://github.com/GitMehdi-sys)
+
 </div>
 
 ---
@@ -83,7 +88,7 @@ const elmehdi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/el-mehdi-el-mouate-476875300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/el-mehdi-el-mouate)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdielmo2020@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitMehdi-sys)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
