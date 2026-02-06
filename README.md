@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Elmehdi%20Elmouate&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Backend%20Enthusiast&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=Elmehdi%20Elmouate&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20Engineer%20|%20Backend%20Enthusiast&descAlignY=55&descSize=20"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Backend+Development+Enthusiast;Network+%26+TCP%2FIP+Explorer;Building+Real+Solutions+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=440&lines=Software+Engineering+Student;Backend+Development+Enthusiast;Network+%26+TCP%2FIP+Explorer;Building+Real+Solutions+🚀" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=GitMehdi-sys&color=blueviolet&style=for-the-badge)](https://github.com/GitMehdi-sys)
+[![Profile Views](https://komarev.com/ghpvc/?username=GitMehdi-sys&color=green&style=for-the-badge)](https://github.com/GitMehdi-sys)
 
 </div>
 
@@ -53,12 +53,12 @@ const elmehdi = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMehdi-sys&layout=compact&langs_count=6&theme=radical&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitMehdi-sys&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitMehdi-sys&layout=compact&langs_count=6&theme=chartreuse-dark&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitMehdi-sys&theme=radical&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitMehdi-sys&theme=chartreuse-dark&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -66,7 +66,7 @@ const elmehdi = {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GitMehdi-sys&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GitMehdi-sys&theme=matrix&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ const elmehdi = {
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitMehdi-sys&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GitMehdi-sys&theme=github-compact&hide_border=true&area=true&color=00FF00&point=00AA00&line=00FF00" alt="Contribution Graph" />
 </div>
 
 ---
@@ -83,8 +83,8 @@ const elmehdi = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/el-mehdi-el-mouate-476875300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app])
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehdielmo2020@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitMehdi-sys)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
@@ -100,4 +100,4 @@ const elmehdi = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=120&section=footer"/>
