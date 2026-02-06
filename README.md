@@ -49,17 +49,6 @@ const elmehdi = {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=GitMehdi-sys&theme=chartreuse-dark&border_radius=10)
-
-</div>
-
----
-
 
 ### 📈 Contribution Graph
 
