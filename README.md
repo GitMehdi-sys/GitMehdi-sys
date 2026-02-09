@@ -18,7 +18,7 @@
 -  Currently working on **Spring Boot & Full-stack projects**
 -  Learning **Software Design Patterns & TCP/IP**
 -  Passionate about **clean, scalable backend systems**
-- 💡 Interested in **REST APIs, Client-Server Architecture & Blockchain**
+-  Interested in **REST APIs, Client-Server Architecture & Blockchain**
 
 ---
 
