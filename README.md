@@ -10,14 +10,14 @@
 ---
 
 ##  About Me
-- 🎓 Software Engineering student 
-- 💻 Full-Stack Developer (Java, Python, Web)
-- 🚀 Building real projects & contributing to open-source
+-  Software Engineering student 
+-  Full-Stack Developer (Java, Python, Web)
+-  Building real projects & contributing to open-source
 
 
-- 🔭 Currently working on **Spring Boot & Full-stack projects**
-- 🌱 Learning **Software Design Patterns & TCP/IP**
-- ⚡ Passionate about **clean, scalable backend systems**
+-  Currently working on **Spring Boot & Full-stack projects**
+-  Learning **Software Design Patterns & TCP/IP**
+-  Passionate about **clean, scalable backend systems**
 - 💡 Interested in **REST APIs, Client-Server Architecture & Blockchain**
 
 ---
