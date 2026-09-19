@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=Elmehdi%20Elmouate&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20development%20|%20Design%20&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=EL Mehdi%20EL Mouate&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20development%20|%20Design%20&descAlignY=55&descSize=20"/>
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Elmehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GitMehdi-sys&bg_color=0d1117&color=00ff00&line=00ff00&point=00aa00&area=true&hide_border=true)](https://github.com/GitMehdi-sys)
+[![EL Mehdi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GitMehdi-sys&bg_color=0d1117&color=00ff00&line=00ff00&point=00aa00&area=true&hide_border=true)](https://github.com/GitMehdi-sys)
 
 </div>
 
