@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=EL Mehdi%20EL Mouate&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20development%20|%20Design%20&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:00AA00&height=200&section=header&text=EL%20Mehdi%20EL%20Mouate&fontSize=50&fontColor=fff&fontAlignY=38&desc=Software%20development%20|%20Design%20&descAlignY=55&descSize=20"/>
 
 <div align="center">
 
