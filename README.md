@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitMehdi-sys/GitMehdi-sys/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitMehdi-sys/GitMehdi-sys/main/light.svg">
-  <img alt="El Mehdi El Mouate" src="https://raw.githubusercontent.com/GitMehdi-sys/GitMehdi-sys/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GitMehdi-sys/GitMehdi-sys/main/dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GitMehdi-sys/GitMehdi-sys/main/light.svg?v=3">
+  <img alt="El Mehdi El Mouate" src="https://raw.githubusercontent.com/GitMehdi-sys/GitMehdi-sys/main/light.svg?v=3">
 </picture>
 
 <!-- ===== FOCUS ===== -->
